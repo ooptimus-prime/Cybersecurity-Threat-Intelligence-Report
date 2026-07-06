@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Threat Intelligence Report — 2024–2025
+# 🛡️ Cybersecurity Threat Intelligence Report
 
 > **Internship Program:** Cybersecurity & Ethical Hacking — Maincrafts Technology  
 > **Task:** Task 1 — Awareness & Research Project  
